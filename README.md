@@ -64,5 +64,8 @@ ISTQB Certified QA Automation Engineer with 2+ years delivering high-quality Web
 - **Email:** suresh2k02@gmail.com
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdet-kadarisuresh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdet-kadarisuresh&layout=compact&theme=radical)
 
 **Last Updated:** March 29, 2026
