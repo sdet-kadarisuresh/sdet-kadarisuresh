@@ -1,16 +1,68 @@
-## Hi there 👋
+# 🎯 ISTQB Certified SDET | 2+ Years Experience
 
-<!--
-**sdet-kadarisuresh/sdet-kadarisuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Suresh Kadari** | Software Development Engineer in Test
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Quick Stats
+
+- ✅ ISTQB Certified QA Automation Professional
+- 🎯 Reduced regression cycles by 30%
+- 🐛 Minimized production defect leakage by 15%
+- 📈 Achieved >90% test coverage
+
+---
+
+## 💡 About Me
+
+ISTQB Certified QA Automation Engineer with 2+ years delivering high-quality Web, Mobile, and API applications. I specialize in building scalable automation frameworks that reduce testing time and enable faster releases.
+
+---
+
+## 🛠️ Technical Skills
+
+**Automation Testing:**
+- Selenium WebDriver, Playwright, Java, TestNG
+- Cucumber (BDD), POM, Data-Driven Frameworks
+- Maven, Allure Reports
+
+**API Testing:**
+- Rest Assured, Postman, Swagger
+- OAuth 2.0, JWT authentication
+- JSON/XML data handling
+
+**Performance Testing:**
+- JMeter - Load, Stress, Endurance Testing
+
+**CI/CD & DevOps:**
+- Jenkins, GitHub Actions, Docker
+- CI/CD Pipeline Design
+- Automated Test Execution
+
+**Databases:**
+- SQL, MySQL, Oracle, SQL Server
+
+**Testing Types:**
+- Functional, Regression, Smoke, Sanity
+- Integration, E2E, Cross-Browser, Mobile
+- UAT, Performance, Security Testing
+
+---
+
+## 📚 Featured Projects
+
+- [JavaScript Fundamentals for SDET](https://github.com/sdet-kadarisuresh/javascript-practice)
+- Selenium Java Framework (Coming Soon)
+- Playwright TypeScript Framework (Coming Soon)
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [@sdet-kadarisuresh](https://github.com/sdet-kadarisuresh)
+- **LinkedIn:** [Your LinkedIn URL](#)
+- **Email:** your.email@example.com
+
+---
+
+**Last Updated:** March 29, 2026
