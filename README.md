@@ -68,4 +68,8 @@ ISTQB Certified QA Automation Engineer with 2+ years delivering high-quality Web
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdet-kadarisuresh&layout=compact&theme=radical)
 
+### Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sdet-kadarisuresh)
 **Last Updated:** March 29, 2026
