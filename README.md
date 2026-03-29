@@ -60,8 +60,8 @@ ISTQB Certified QA Automation Engineer with 2+ years delivering high-quality Web
 ## 🤝 Let's Connect
 
 - **GitHub:** [@sdet-kadarisuresh](https://github.com/sdet-kadarisuresh)
-- **LinkedIn:** [Your LinkedIn URL](#)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/suresh2k022
+- **Email:** suresh2k02@gmail.com
 
 ---
 
